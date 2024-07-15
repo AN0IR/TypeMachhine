@@ -10,9 +10,7 @@
         "build": "tsc && vite build",
         "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
         "preview": "vite preview",
-        "homepage": "https://AN0IR.github.io/TypeMachine",
-        "start": "react-scripts start",
-        "build": "react-scripts build"
+        "homepage": "https://AN0IR.github.io/TypeMachine"
     },
     "dependencies": {
         "@emotion/react": "^11.11.4",
