@@ -1,9 +1,9 @@
 {
-    "name": "speedtyper",
+    "name": "typemachhine",
     "private": false,
     "version": "0.0.0",
     "type": "module",
-    "homepage": "https://AN0IR.github.io/TypeMachine",
+    "homepage": "https://an0ir.github.io/TypeMachhine",
     "scripts": {
         "dev": "vite",
         "build": "tsc && vite build",
