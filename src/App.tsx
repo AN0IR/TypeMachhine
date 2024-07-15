@@ -3,7 +3,6 @@ import wordlist from "./wordlist";
 import Word from "./components/word";
 import Timer from "./components/timer";
 import Collapse from "@mui/material/Collapse";
-import { TransitionGroup } from "react-transition-group";
 
 type WordsProps = {
     currentWordID: number;
